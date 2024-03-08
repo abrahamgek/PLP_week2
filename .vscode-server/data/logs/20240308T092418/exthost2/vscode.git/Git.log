@@ -296,3 +296,30 @@ fatal: adding files failed
 2024-03-08 09:50:21.197 [warning] ENOENT: no such file or directory, open '/home/abraham/.git/refs/remotes/origin/main'
 2024-03-08 09:50:21.198 [info] > git rev-parse refs/remotes/origin/main [1ms]
 2024-03-08 09:50:21.254 [info] > git status -z -uall [50ms]
+2024-03-08 09:50:31.618 [info] > git show --textconv :.git/COMMIT_EDITMSG [6ms]
+2024-03-08 09:50:31.621 [info] > git ls-files --stage -- /home/abraham/.git/COMMIT_EDITMSG [4ms]
+2024-03-08 09:50:31.848 [info] > git check-ignore -v -z --stdin [13ms]
+2024-03-08 09:50:32.516 [info] > git ls-files --stage -- /home/abraham/.git/COMMIT_EDITMSG [9ms]
+2024-03-08 09:50:32.535 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-03-08 09:50:34.940 [info] > git config --get commit.template [8ms]
+2024-03-08 09:50:34.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-03-08 09:50:34.947 [warning] ENOENT: no such file or directory, open '/home/abraham/.git/refs/remotes/origin/main'
+2024-03-08 09:50:34.949 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-03-08 09:50:34.998 [info] > git status -z -uall [44ms]
+2024-03-08 09:50:40.019 [info] > git config --get commit.template [9ms]
+2024-03-08 09:50:40.021 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-03-08 09:50:40.029 [warning] ENOENT: no such file or directory, open '/home/abraham/.git/refs/remotes/origin/main'
+2024-03-08 09:50:40.031 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-03-08 09:50:40.100 [info] > git status -z -uall [62ms]
+2024-03-08 09:50:46.039 [info] > git config --get commit.template [15ms]
+2024-03-08 09:50:46.040 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-03-08 09:50:46.054 [warning] ENOENT: no such file or directory, open '/home/abraham/.git/refs/remotes/origin/main'
+2024-03-08 09:50:46.056 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-03-08 09:50:46.127 [info] > git status -z -uall [60ms]
+2024-03-08 09:50:51.158 [info] > git config --get commit.template [12ms]
+2024-03-08 09:50:51.159 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-03-08 09:50:51.170 [warning] ENOENT: no such file or directory, open '/home/abraham/.git/refs/remotes/origin/main'
+2024-03-08 09:50:51.171 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-03-08 09:50:51.279 [info] > git status -z -uall [99ms]
+2024-03-08 09:50:51.373 [info] > git merge-base refs/heads/main refs/remotes/origin/main [21ms]
+2024-03-08 09:50:51.411 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [5ms]
