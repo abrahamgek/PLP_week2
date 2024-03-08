@@ -1,0 +1,2 @@
+# odin-recipes
+This project is about applying the HTML knowledge I gained so far from the Odin project and create a recipe. The recipe will be linked to different pages within the recipe. After completing this project I will be be able describe how I can create a repositry in github and clone the repositry in the local machine and access the repo using Ubuntu terminal to open and push codes to git hub. i will also be able to effectively use HTML to create the skeletal structure of a website.

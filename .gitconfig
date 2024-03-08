@@ -1,0 +1,12 @@
+[user]
+	name = abrahamgek
+	email = girmaa065@gmail.com
+[init]
+	defaultBranch = main
+	deaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
+[core]
+	editor = code --wait

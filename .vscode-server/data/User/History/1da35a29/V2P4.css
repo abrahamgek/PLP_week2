@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* Styles for elements with class "proportioned" and "avatar" */
+.proportioned.avatar {
+    width: 300px;
+    height: auto;
+  }
+  
+  /* Styles for elements with class "distorted" and "avatar" */
+  .distorted.avatar {
+    width: 200px;
+    height: 400px;
+  }

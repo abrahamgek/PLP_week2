@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .menu-container {
+    color: #fff;
+    background-color: #5995DA;  /* Blue */
+    padding: 20px 0;
+    display: flex;      /*defining that the boxes should be rendered as flexbox instead of defualt box model*/
+    justify-content: center;  /*defining the horizontal alignment of the items. Same effetc as adding margin: 0 auto to the menu element.*/
+}
+  
+  .menu {
+    border: 1px solid #fff;  /* For debugging */
+    width: 900px;
+    display: flex; /* nested flex container*/
+    justify-content: space-between; /* s-around: spreads the items across the entire width*/
+  }
+  .links{
+    display: flex;
+    justify-content: flex-end;
+  }
+  /*Nesting a div element inside a container to contain other element inside the flex items*/
+  .login{
+    margin-left: 20px;
+  }
+  .header-container {
+    color: #5995DA;
+    background-color: #D6E9FE;
+    display: flex;
+    justify-content: center;
+  }
+  .header {
+    width: 900px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  /* .social,
+  .log,
+  .subscribe{
+    border: 1px solid;
+  }
+  .photo-grid-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .photo-grid {
+    width: 900px;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .photo-grid-item {
+    border: 1px solid #fff;
+    width: 300px;
+    height: 300px;
+  } */

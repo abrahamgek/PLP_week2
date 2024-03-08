@@ -1,0 +1,27 @@
+2024-03-01 18:40:51.952 [info] Log level: Info
+2024-03-01 18:40:51.952 [info] Validating found git in: "git"
+2024-03-01 18:40:51.952 [info] Using git "2.43.0" from "git"
+2024-03-01 18:40:51.952 [info] > git rev-parse --show-toplevel [483ms]
+2024-03-01 18:40:51.952 [info] > git rev-parse --git-dir --git-common-dir [263ms]
+2024-03-01 18:40:51.952 [info] Open repository: /home/abraham/css-exercises
+2024-03-01 18:40:51.952 [info] > git rev-parse --show-toplevel [128ms]
+2024-03-01 18:40:51.952 [info] > git config --get commit.template [156ms]
+2024-03-01 18:40:52.016 [info] > git rev-parse --show-toplevel [110ms]
+2024-03-01 18:40:52.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [69ms]
+2024-03-01 18:40:52.057 [info] > git rev-parse --show-toplevel [20ms]
+2024-03-01 18:40:52.106 [info] > git rev-parse --show-toplevel [33ms]
+2024-03-01 18:40:52.156 [info] > git status -z -uall [33ms]
+2024-03-01 18:40:52.160 [info] > git rev-parse --show-toplevel [18ms]
+2024-03-01 18:40:52.238 [info] > git config --get commit.template [10ms]
+2024-03-01 18:40:52.239 [info] > git rev-parse --show-toplevel [25ms]
+2024-03-01 18:40:52.354 [info] > git check-ignore -v -z --stdin [91ms]
+2024-03-01 18:40:52.362 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [49ms]
+2024-03-01 18:40:52.366 [info] > git rev-parse --show-toplevel [82ms]
+2024-03-01 18:40:52.428 [info] > git rev-parse --show-toplevel [29ms]
+2024-03-01 18:40:52.557 [info] > git status -z -uall [132ms]
+2024-03-01 18:40:52.557 [info] > git show --textconv :flex/07-flex-layout-2/index.html [88ms]
+2024-03-01 18:40:52.557 [info] > git show --textconv :flex/07-flex-layout-2/style.css [51ms]
+2024-03-01 18:40:52.558 [info] > git ls-files --stage -- /home/abraham/css-exercises/flex/07-flex-layout-2/style.css [12ms]
+2024-03-01 18:40:52.579 [info] > git ls-files --stage -- /home/abraham/css-exercises/flex/07-flex-layout-2/index.html [50ms]
+2024-03-01 18:40:52.639 [info] > git cat-file -s 85c1d0b75caed03383c60b7282620b592a3d5127 [44ms]
+2024-03-01 18:40:52.641 [info] > git cat-file -s 6caf04c79451489cc708102360331bdf31d6da98 [63ms]
