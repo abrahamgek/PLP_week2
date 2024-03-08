@@ -333,3 +333,75 @@ clear
 git status
 clear
 exit
+git status
+git add .motd_shown
+git add .
+git add .profile
+git add .ssh/
+git add .sudo_as_admin_successful
+git add .vscode-server
+clear
+git status
+git add.
+git add .
+git add
+clear
+git status
+git add .ssh/
+git add .wget-hsts
+git add css-exercises
+git add css-exercises/
+git add git_test/
+clear
+git status
+git add odin-images and links
+git add odin-images and links/
+git odin-recipes/
+git add odin-recipes/
+git add repos/
+git commit .
+clear
+git status
+git commit -m "VScode update"
+git status
+git add .
+clear
+git status
+clear
+mkd
+mkdr
+mkdir
+mkdir landing_page
+cd landing_page
+code .
+git status
+clear
+cd
+code .
+exit
+cd
+sudo git add -A -- /home/abraham/.ssh/config.save
+git add .
+git commit -m "VScode update"
+git status
+clear
+git add .vscode-server/data/logs/20240308T092418/exthost2/vscode.git/Git.log
+git commit m "VScod update"
+git commit -m "VScode update"
+git push
+clear
+git status
+git commit -a
+git push origin main
+clear
+git status
+git add .
+git commit -m "VScode update"
+git add .
+git commit -m "VScode update"
+git status
+git add .vscode-server/data/logs/20240308T092418/exthost2/vscode.git/Git.log
+git commit -m "Message describing the changes"
+git push Git.log
+clear
+cd landing_page

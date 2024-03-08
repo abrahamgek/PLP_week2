@@ -1,0 +1,16 @@
+2024-03-08 10:03:04.721 [info] Extension host with pid 567 started
+2024-03-08 10:03:04.748 [info] Lock '/home/abraham/.vscode-server/data/User/workspaceStorage/faeb5d17a8df12c89dfdd06dfdbf8e9d/vscode.lock': Lock acquired.
+2024-03-08 10:03:04.882 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-08 10:03:04.973 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-08 10:03:04.974 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-08 10:03:05.520 [info] Eager extensions activated
+2024-03-08 10:03:05.521 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-08 10:03:05.521 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-08 10:03:05.522 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-03-08 10:03:05.523 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-03-08 10:03:05.523 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-03-08 10:03:06.925 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3440
+2024-03-08 10:03:07.895 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3440
+2024-03-08 10:03:11.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3440
+2024-03-08 10:03:12.307 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-08 10:03:16.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3458
