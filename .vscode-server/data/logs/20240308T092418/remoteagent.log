@@ -7,3 +7,7 @@
 2024-03-08 09:24:18.306 [info] [127.0.0.1][b7d0c420][ManagementConnection] New connection established.
 2024-03-08 09:24:18.644 [info] [127.0.0.1][a5eedb24][ExtensionHostConnection] New connection established.
 2024-03-08 09:24:18.662 [info] [127.0.0.1][a5eedb24][ExtensionHostConnection] <680> Launched Extension Host Process.
+2024-03-08 09:38:25.697 [info] [127.0.0.1][14553f81][ManagementConnection] New connection established.
+2024-03-08 09:38:26.575 [info] [127.0.0.1][c3209fe8][ExtensionHostConnection] New connection established.
+2024-03-08 09:38:26.585 [info] [127.0.0.1][c3209fe8][ExtensionHostConnection] <9369> Launched Extension Host Process.
+2024-03-08 09:43:27.788 [error] [File Watcher (node.js)] Failed to watch /home/abraham/.ssh/config.save for changes using fs.watch() (Error: EACCES: permission denied, watch '/home/abraham/.ssh/config.save')

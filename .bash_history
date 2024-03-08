@@ -313,3 +313,23 @@ git add .
 git commit -m "adjusted the content of the page to the desired outcome"
 git push origin main
 clear
+cd abrahamgek/landing_page
+cd
+cd .
+clear
+code .
+git status
+git add .
+git add .bash_history
+git add .bash_logout
+git_add .bashrc
+git add .cache/
+git add .gitconfig
+git add .lessht
+git add .lesshst
+git add .bashrc
+git add motd_shown'
+clear
+git status
+clear
+exit
