@@ -1,0 +1,84 @@
+@import 'utilities.css';
+:root{
+    --primary: rgb(29, 221, 189);
+    --bgDark: rgb(12, 12, 12);
+    --white: rgb(250, 250, 250);
+    --secondary: rgb(0, 59, 50);
+    --bgLight: rgb(90, 86, 86);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: var(--bgDark);
+    color: var(--primary);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Navigation Styles */
+  nav {
+    margin: 20px;
+    background-color: var(--bgDark);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: var(--white);
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  /* Section Styles */
+  section {
+    padding: 50px;
+    margin-bottom: 20px;
+    background-color: var(--bgLight);
+    color: var(--white);
+    border-radius: 10px;
+  }
+  
+  section h2 {
+    text-align: center;
+    color: var(--primary);
+  }
+  
+  section p {
+    line-height: 1.6;
+  }
+  
+  /* Project List Styles */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li a {
+    color: var(--primary);
+    text-decoration: none;
+  }
+  
+  ul li a:hover {
+    text-decoration: underline;
+  }
+  

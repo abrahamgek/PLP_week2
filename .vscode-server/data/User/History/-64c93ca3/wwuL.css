@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+.first-section{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 15px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-link {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link a {
+    margin-right: 10px; /* Adjust spacing between links */
+    color: white; /* Optional: Set color for links */
+    text-decoration: none; /* Optional: Remove underline from links */
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    flex: 1;
+}
+.description {
+    /* flex: 1; */
+    padding: 20px; Optional: Add padding
+}
+.image{
+    margin: 20px;
+    width: 400px;
+    height: 100px;
+    border: 2px solid white;
+}

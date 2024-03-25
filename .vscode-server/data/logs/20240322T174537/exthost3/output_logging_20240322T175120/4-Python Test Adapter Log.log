@@ -1,0 +1,60 @@
+2024-03-22T17:51:23.431Z INFO unittest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:51:23.456Z  DBG unittest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:51:23.460Z INFO pytest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:51:23.465Z  DBG pytest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:51:23.467Z INFO testplan at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:51:23.472Z  DBG testplan at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:51:29.205Z INFO unittest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:51:29.205Z INFO pytest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:51:29.206Z INFO testplan at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:51:29.218Z INFO unittest at 'portfolio_website': Unittest test discovery is disabled
+2024-03-22T17:51:29.220Z INFO pytest at 'portfolio_website': Pytest test discovery is disabled
+2024-03-22T17:51:29.221Z INFO testplan at 'portfolio_website': TestPlan test discovery is disabled
+2024-03-22T17:53:41.917Z INFO unittest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:53:41.926Z  DBG unittest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:53:41.927Z INFO pytest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:53:41.931Z  DBG pytest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:53:41.931Z INFO testplan at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:53:41.933Z  DBG testplan at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:53:41.936Z INFO unittest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:53:41.936Z INFO pytest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:53:41.936Z INFO testplan at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:53:41.937Z  DBG unittest at 'portfolio_website': Sending autorun event
+2024-03-22T17:53:41.937Z  DBG pytest at 'portfolio_website': Sending autorun event
+2024-03-22T17:53:41.938Z  DBG testplan at 'portfolio_website': Sending autorun event
+2024-03-22T17:53:43.406Z INFO unittest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:53:43.411Z  DBG unittest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:53:43.412Z INFO pytest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:53:43.415Z  DBG pytest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:53:43.415Z INFO testplan at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T17:53:43.419Z  DBG testplan at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T17:53:43.420Z INFO unittest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:53:43.420Z INFO pytest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:53:43.420Z INFO testplan at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T17:53:43.420Z  DBG unittest at 'portfolio_website': Sending autorun event
+2024-03-22T17:53:43.420Z  DBG pytest at 'portfolio_website': Sending autorun event
+2024-03-22T17:53:43.420Z  DBG testplan at 'portfolio_website': Sending autorun event
+2024-03-22T18:10:26.234Z INFO unittest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T18:10:26.240Z  DBG unittest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T18:10:26.240Z INFO pytest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T18:10:26.244Z  DBG pytest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T18:10:26.245Z INFO testplan at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T18:10:26.250Z  DBG testplan at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T18:10:26.253Z INFO unittest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T18:10:26.253Z INFO pytest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T18:10:26.254Z INFO testplan at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T18:10:26.254Z  DBG unittest at 'portfolio_website': Sending autorun event
+2024-03-22T18:10:26.255Z  DBG pytest at 'portfolio_website': Sending autorun event
+2024-03-22T18:10:26.255Z  DBG testplan at 'portfolio_website': Sending autorun event
+2024-03-22T18:10:27.569Z INFO unittest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T18:10:27.572Z  DBG unittest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T18:10:27.573Z INFO pytest at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T18:10:27.578Z  DBG pytest at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T18:10:27.578Z INFO testplan at 'portfolio_website': Reading configuration for workspace portfolio_website
+2024-03-22T18:10:27.583Z  DBG testplan at 'portfolio_website': usingNewInterpreterStorage feature flag is 'true'
+2024-03-22T18:10:27.584Z INFO unittest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T18:10:27.585Z INFO pytest at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T18:10:27.585Z INFO testplan at 'portfolio_website': Using auto-detected pythonPath /bin/python3
+2024-03-22T18:10:27.585Z  DBG unittest at 'portfolio_website': Sending autorun event
+2024-03-22T18:10:27.585Z  DBG pytest at 'portfolio_website': Sending autorun event
+2024-03-22T18:10:27.585Z  DBG testplan at 'portfolio_website': Sending autorun event

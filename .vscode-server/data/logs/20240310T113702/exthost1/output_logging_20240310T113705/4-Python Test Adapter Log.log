@@ -1,0 +1,48 @@
+2024-03-10T11:42:10.956Z INFO unittest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:42:10.968Z  DBG unittest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:42:10.969Z INFO pytest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:42:10.972Z  DBG pytest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:42:10.973Z INFO testplan at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:42:10.975Z  DBG testplan at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:42:10.977Z INFO unittest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:42:10.977Z INFO pytest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:42:10.977Z INFO testplan at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:42:10.983Z INFO unittest at 'plp_python': Unittest test discovery is disabled
+2024-03-10T11:42:10.984Z INFO pytest at 'plp_python': Pytest test discovery is disabled
+2024-03-10T11:42:10.984Z INFO testplan at 'plp_python': TestPlan test discovery is disabled
+2024-03-10T11:42:24.693Z INFO unittest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:42:24.697Z  DBG unittest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:42:24.697Z INFO pytest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:42:24.700Z  DBG pytest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:42:24.700Z INFO testplan at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:42:24.704Z  DBG testplan at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:42:24.705Z INFO unittest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:42:24.706Z INFO pytest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:42:24.706Z INFO testplan at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:42:24.706Z  DBG unittest at 'plp_python': Sending autorun event
+2024-03-10T11:42:24.706Z  DBG pytest at 'plp_python': Sending autorun event
+2024-03-10T11:42:24.706Z  DBG testplan at 'plp_python': Sending autorun event
+2024-03-10T11:43:27.927Z INFO unittest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:43:27.932Z  DBG unittest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:43:27.933Z INFO pytest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:43:27.935Z  DBG pytest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:43:27.935Z INFO testplan at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:43:27.937Z  DBG testplan at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:43:27.938Z INFO unittest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:43:27.938Z INFO pytest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:43:27.938Z INFO testplan at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:43:27.939Z  DBG unittest at 'plp_python': Sending autorun event
+2024-03-10T11:43:27.939Z  DBG pytest at 'plp_python': Sending autorun event
+2024-03-10T11:43:27.939Z  DBG testplan at 'plp_python': Sending autorun event
+2024-03-10T11:43:53.296Z INFO unittest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:43:53.299Z  DBG unittest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:43:53.299Z INFO pytest at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:43:53.306Z  DBG pytest at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:43:53.306Z INFO testplan at 'plp_python': Reading configuration for workspace plp_python
+2024-03-10T11:43:53.308Z  DBG testplan at 'plp_python': usingNewInterpreterStorage feature flag is 'true'
+2024-03-10T11:43:53.310Z INFO unittest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:43:53.310Z INFO pytest at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:43:53.310Z INFO testplan at 'plp_python': Using auto-detected pythonPath /bin/python3
+2024-03-10T11:43:53.310Z  DBG unittest at 'plp_python': Sending autorun event
+2024-03-10T11:43:53.310Z  DBG pytest at 'plp_python': Sending autorun event
+2024-03-10T11:43:53.310Z  DBG testplan at 'plp_python': Sending autorun event

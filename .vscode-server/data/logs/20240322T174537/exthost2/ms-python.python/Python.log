@@ -1,0 +1,43 @@
+2024-03-22 17:46:55.842 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-22 17:46:55.842 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-22 17:46:55.842 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-03-22 17:46:55.842 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-22 17:46:55.842 [info] Experiment 'pythonTestAdapter' is active
+2024-03-22 17:46:55.842 [info] Default formatter is set to null for workspace /home/abraham/landing_page
+2024-03-22 17:46:55.842 [info] Test server listening.
+2024-03-22 17:46:55.966 [info] > C:\Users\Admin\AppData\Local\Microsoft\WindowsApps\python3.11.exe -I ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-22 17:46:56.030 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-22 17:46:56.030 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-22 17:46:56.030 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-22 17:46:56.030 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-22 17:46:56.041 [error] [Error: Command failed: C:\Users\Admin\AppData\Local\Microsoft\WindowsApps\python3.11.exe -I /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: C:UsersAdminAppDataLocalMicrosoftWindowsAppspython3.11.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:323:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe -I /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py'
+}
+2024-03-22 17:46:58.061 [info] > C:\Users\Admin\AppData\Local\Microsoft\WindowsApps\python3.11.exe -I ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-22 17:46:58.176 [error] [Error: Command failed: C:\Users\Admin\AppData\Local\Microsoft\WindowsApps\python3.11.exe -I /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: C:UsersAdminAppDataLocalMicrosoftWindowsAppspython3.11.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:323:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe -I /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py /home/abraham/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py'
+}
+2024-03-22 17:46:58.202 [info] Python interpreter path: /bin/python3
+2024-03-22 17:47:00.384 [info] Starting Pylance language server.

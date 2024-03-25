@@ -1,0 +1,10 @@
+2024-03-22 17:46:59.465 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-22 17:47:00.332 [info] [Info  - 5:47:00 PM] (1593) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-22 17:47:00.333 [info] [Info  - 5:47:00 PM] (1593) Server root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-22 17:47:00.333 [info] [Info  - 5:47:00 PM] (1593) Starting service instance "landing_page"
+2024-03-22 17:47:00.443 [info] [Info  - 5:47:00 PM] (1593) Setting pythonPath for service "landing_page": "/bin/python3"
+2024-03-22 17:47:00.443 [info] [Info  - 5:47:00 PM] (1593) Setting environmentName for service "landing_page": "3.10.12 (global)"
+2024-03-22 17:47:00.482 [info] [Info  - 5:47:00 PM] (1593) Assuming Python version 3.10
+2024-03-22 17:47:00.624 [info] [Info  - 5:47:00 PM] (1593) No source files found.
+2024-03-22 17:47:01.146 [info] [Info  - 5:47:01 PM] (1593) Background analysis(1) root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-22 17:47:01.149 [info] [Info  - 5:47:01 PM] (1593) Background analysis(1) started

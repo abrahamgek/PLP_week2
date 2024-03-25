@@ -1,0 +1,33 @@
+2024-03-10 11:37:02.549 [info] 
+
+
+
+
+2024-03-10 11:37:02.574 [info] Extension host agent started.
+2024-03-10 11:37:02.945 [info] [127.0.0.1][00a75751][ManagementConnection] New connection established.
+2024-03-10 11:37:03.721 [info] [127.0.0.1][b8b8afb9][ExtensionHostConnection] New connection established.
+2024-03-10 11:37:03.785 [info] [127.0.0.1][b8b8afb9][ExtensionHostConnection] <4351> Launched Extension Host Process.
+2024-03-10 11:41:53.312 [info] Getting Manifest... littlefoxteam.vscode-python-test-adapter
+2024-03-10 11:41:54.327 [info] Installing extension: littlefoxteam.vscode-python-test-adapter
+2024-03-10 11:41:58.157 [info] Getting Manifest... ms-python.python
+2024-03-10 11:41:59.173 [info] Getting Manifest... hbenl.vscode-test-explorer
+2024-03-10 11:42:01.603 [info] Getting Manifest... ms-vscode.test-adapter-converter
+2024-03-10 11:42:02.818 [info] Installing extension: hbenl.vscode-test-explorer
+2024-03-10 11:42:02.818 [info] Installing extension: ms-vscode.test-adapter-converter
+2024-03-10 11:42:08.271 [info] Extension signature is verified: hbenl.vscode-test-explorer
+2024-03-10 11:42:08.312 [info] Extension signature is verified: ms-vscode.test-adapter-converter
+2024-03-10 11:42:08.369 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/ms-vscode.test-adapter-converter-0.1.9: ms-vscode.test-adapter-converter
+2024-03-10 11:42:08.443 [info] Renamed to /home/abraham/.vscode-server/extensions/ms-vscode.test-adapter-converter-0.1.9
+2024-03-10 11:42:08.448 [info] Extracting extension completed. ms-vscode.test-adapter-converter
+2024-03-10 11:42:08.590 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/hbenl.vscode-test-explorer-2.21.1: hbenl.vscode-test-explorer
+2024-03-10 11:42:08.663 [info] Renamed to /home/abraham/.vscode-server/extensions/hbenl.vscode-test-explorer-2.21.1
+2024-03-10 11:42:08.667 [info] Extracting extension completed. hbenl.vscode-test-explorer
+2024-03-10 11:42:09.172 [info] Extension signature is verified: littlefoxteam.vscode-python-test-adapter
+2024-03-10 11:42:10.097 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/littlefoxteam.vscode-python-test-adapter-0.8.2: littlefoxteam.vscode-python-test-adapter
+2024-03-10 11:42:10.174 [info] Renamed to /home/abraham/.vscode-server/extensions/littlefoxteam.vscode-python-test-adapter-0.8.2
+2024-03-10 11:42:10.185 [info] Extracting extension completed. littlefoxteam.vscode-python-test-adapter
+2024-03-10 11:42:10.214 [info] Extension installed successfully: ms-vscode.test-adapter-converter
+2024-03-10 11:42:10.215 [info] Extension installed successfully: hbenl.vscode-test-explorer
+2024-03-10 11:42:10.215 [info] Extension installed successfully: littlefoxteam.vscode-python-test-adapter
+2024-03-10 11:46:05.865 [info] [127.0.0.1][00a75751][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-10 11:46:06.126 [info] [127.0.0.1][b8b8afb9][ExtensionHostConnection] <4351> Extension Host Process exited with code: 0, signal: null.

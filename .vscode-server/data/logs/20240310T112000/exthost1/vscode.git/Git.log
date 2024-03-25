@@ -1,0 +1,13 @@
+2024-03-10 11:20:05.003 [info] Log level: Info
+2024-03-10 11:20:05.003 [info] Validating found git in: "git"
+2024-03-10 11:20:05.003 [info] Using git "2.43.0" from "git"
+2024-03-10 11:20:05.003 [info] > git rev-parse --show-toplevel [9ms]
+2024-03-10 11:20:05.003 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-03-10 11:20:05.003 [info] Open repository: /home/abraham/landing_page
+2024-03-10 11:20:05.011 [info] > git config --get commit.template [19ms]
+2024-03-10 11:20:05.030 [info] > git rev-parse --show-toplevel [30ms]
+2024-03-10 11:20:05.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-03-10 11:20:05.118 [info] > git status -z -uall [19ms]
+2024-03-10 11:20:05.176 [info] > git config --get commit.template [13ms]
+2024-03-10 11:20:05.178 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-03-10 11:20:05.207 [info] > git status -z -uall [4ms]

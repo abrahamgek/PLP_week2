@@ -405,3 +405,86 @@ git commit -m "Message describing the changes"
 git push Git.log
 clear
 cd landing_page
+clear
+cd abrahamgek
+cd
+clear
+git clone git@github.com:abrahamgek/landing_page.git
+cd abrahamgek/landing_page
+cd landing_page
+code .
+git status
+git add .
+git commit -m "initial commit"
+git push origin main
+clear
+exit
+cd landing_page
+code .
+clear
+git status
+git add .
+git commit -m "updated html and css, added images folder"
+git push origin main
+clear
+exit
+git clone git@github.com:abrahamgek/plp_python.git
+cd plp_python
+git init
+git status
+git add .
+git commmit -m "first commit"
+git commit -m "first commit"
+git push origin main
+git remote add origin git@github.com:abrahamgek/plp_python.git
+git push -u origin main
+clear
+cd plp_projects
+cd plp_python
+code .
+git status
+git add .
+git commit -m "initial commit"
+git push origin main
+clear
+exit
+/bin/python3 /home/abraham/plp_python/user_input.py
+clear
+/bin/python3 /home/abraham/plp_python/user_input.py
+clear
+mkdr portfolio_website
+clear
+mkdir landign_website
+cd landing_website
+mkdir portfolio_website
+cd portfolio_website
+code .
+git status
+git add .
+git commit "initial commit"
+git commit -m "initial commit"
+clear
+exit
+clear
+code .
+git status
+sudo apt update
+sudo apt upgrade code
+apt list --upgradable
+clear
+git status
+git add .
+sudo git add .
+git add landing_page
+git add plp_python
+git add user_input.py
+git status
+error: insufficient permission for adding an object to repository database .git/objects
+error: .vscode-server/extensions/ms-python.python-2024.2.1/ThirdPartyNotices.txt: failed to insert into database
+error: unable to index file '.vscode-server/extensions/ms-python.python-2024.2.1/ThirdPartyNotices.txt'
+fatal: adding files faile
+sudo git add .
+git commit -m """ 
+clear
+
+
