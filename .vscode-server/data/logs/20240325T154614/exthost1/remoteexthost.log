@@ -20,3 +20,5 @@
 2024-03-25 15:46:38.144 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
 2024-03-25 15:55:58.053 [warning] [Decorations] CAPPING events from decorations provider vscode.git 12365
 2024-03-25 15:56:48.645 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11167
+2024-03-25 15:58:20.619 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-03-25 15:59:25.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11167
