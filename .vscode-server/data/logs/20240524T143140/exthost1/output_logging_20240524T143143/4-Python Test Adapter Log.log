@@ -22,3 +22,15 @@
 2024-05-24T14:32:12.117Z  DBG unittest at 'abraham': Sending autorun event
 2024-05-24T14:32:12.117Z  DBG pytest at 'abraham': Sending autorun event
 2024-05-24T14:32:12.117Z  DBG testplan at 'abraham': Sending autorun event
+2024-05-24T14:39:04.047Z INFO unittest at 'abraham': Reading configuration for workspace abraham
+2024-05-24T14:39:04.056Z  DBG unittest at 'abraham': usingNewInterpreterStorage feature flag is 'true'
+2024-05-24T14:39:04.056Z INFO pytest at 'abraham': Reading configuration for workspace abraham
+2024-05-24T14:39:04.061Z  DBG pytest at 'abraham': usingNewInterpreterStorage feature flag is 'true'
+2024-05-24T14:39:04.061Z INFO testplan at 'abraham': Reading configuration for workspace abraham
+2024-05-24T14:39:04.064Z  DBG testplan at 'abraham': usingNewInterpreterStorage feature flag is 'true'
+2024-05-24T14:39:04.077Z INFO unittest at 'abraham': Using auto-detected pythonPath /bin/python3
+2024-05-24T14:39:04.077Z INFO pytest at 'abraham': Using auto-detected pythonPath /bin/python3
+2024-05-24T14:39:04.077Z INFO testplan at 'abraham': Using auto-detected pythonPath /bin/python3
+2024-05-24T14:39:04.099Z  DBG unittest at 'abraham': Sending autorun event
+2024-05-24T14:39:04.099Z  DBG pytest at 'abraham': Sending autorun event
+2024-05-24T14:39:04.099Z  DBG testplan at 'abraham': Sending autorun event
