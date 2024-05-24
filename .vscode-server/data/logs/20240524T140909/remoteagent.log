@@ -1,0 +1,15 @@
+2024-05-24 14:09:09.659 [info] 
+
+
+
+
+2024-05-24 14:09:09.732 [info] Extension host agent started.
+2024-05-24 14:09:10.386 [info] Deleted uninstalled extension from disk ms-python.python /home/abraham/.vscode-server/extensions/ms-python.python-2024.4.1
+2024-05-24 14:09:10.388 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1
+2024-05-24 14:09:10.549 [info] [127.0.0.1][55612469][ManagementConnection] New connection established.
+2024-05-24 14:09:11.661 [info] [127.0.0.1][5b85ef18][ExtensionHostConnection] New connection established.
+2024-05-24 14:09:12.007 [info] [127.0.0.1][5b85ef18][ExtensionHostConnection] <13255> Launched Extension Host Process.
+2024-05-24 14:09:21.806 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/abraham/.vscode-server/data/logs/20240310T112959/exthost1' failed: No such file or directory (EUNKNOWN) (path: /home/abraham)
+2024-05-24 14:09:21.808 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/abraham/.vscode-server/data/logs/20240310T112959/exthost1' failed: No such file or directory
+2024-05-24 14:09:39.049 [info] [127.0.0.1][55612469][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-24 14:09:40.756 [info] [127.0.0.1][5b85ef18][ExtensionHostConnection] <13255> Extension Host Process exited with code: 0, signal: null.

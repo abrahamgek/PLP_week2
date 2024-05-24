@@ -1,0 +1,10 @@
+2024-05-24 14:24:08.949 [info] Experiment 'pythonCreateEnvOnPipInstallcf' is active
+2024-05-24 14:24:08.949 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-24 14:24:08.949 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-24 14:24:08.949 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-24 14:24:08.949 [info] Experiment 'pythonTestAdapter' is active
+2024-05-24 14:24:08.949 [info] Default formatter is set to null for workspace /home/abraham
+2024-05-24 14:24:08.949 [info] Python interpreter path: /bin/python3
+2024-05-24 14:24:09.020 [info] > pyenv which python
+2024-05-24 14:24:09.021 [info] cwd: .
+2024-05-24 14:24:12.314 [info] Starting Pylance language server.

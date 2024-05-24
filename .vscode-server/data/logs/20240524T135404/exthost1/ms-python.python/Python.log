@@ -1,0 +1,19 @@
+2024-05-24 13:54:12.369 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-24 13:54:12.369 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-24 13:54:12.369 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-24 13:54:12.369 [info] Experiment 'pythonTestAdapter' is active
+2024-05-24 13:54:12.369 [info] Default formatter is set to null for workspace /home/abraham
+2024-05-24 13:54:12.369 [info] Test server listening.
+2024-05-24 13:54:12.369 [info] > conda info --json
+2024-05-24 13:54:12.369 [info] > hatch env show --json
+2024-05-24 13:54:12.372 [info] cwd: .
+2024-05-24 13:54:12.372 [info] Found: /bin/python3 --> /bin/python3.10
+2024-05-24 13:54:12.388 [info] > pyenv which python
+2024-05-24 13:54:12.388 [info] cwd: .
+2024-05-24 13:54:12.390 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-05-24 13:54:12.573 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-05-24 13:54:12.596 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-05-24 13:54:12.738 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-05-24 13:54:12.918 [info] Python interpreter path: /bin/python3
+2024-05-24 13:54:15.175 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-05-24 13:54:16.786 [info] Starting Pylance language server.

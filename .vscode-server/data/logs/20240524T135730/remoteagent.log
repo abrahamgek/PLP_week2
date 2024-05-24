@@ -1,0 +1,32 @@
+2024-05-24 13:57:31.081 [info] 
+
+
+
+
+2024-05-24 13:57:31.122 [info] Extension host agent started.
+2024-05-24 13:57:31.583 [info] [127.0.0.1][6af36a83][ManagementConnection] New connection established.
+2024-05-24 13:57:32.292 [info] [127.0.0.1][9d09fc5a][ExtensionHostConnection] New connection established.
+2024-05-24 13:57:32.379 [info] [127.0.0.1][9d09fc5a][ExtensionHostConnection] <8439> Launched Extension Host Process.
+2024-05-24 13:57:40.585 [info] Getting Manifest... ms-python.python
+2024-05-24 13:57:40.586 [info] Getting Manifest... ms-python.vscode-pylance
+2024-05-24 13:57:41.386 [info] Installing extension: ms-python.python
+2024-05-24 13:57:41.707 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/abraham/.vscode-server/data/logs/20240310T112000/exthost1/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/abraham)
+2024-05-24 13:57:41.708 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/abraham/.vscode-server/data/logs/20240310T112000/exthost1/vscode.git' failed: No such file or directory
+2024-05-24 13:57:41.774 [info] Installing extension: ms-python.vscode-pylance
+2024-05-24 13:57:45.025 [info] Getting Manifest... ms-python.python
+2024-05-24 13:57:46.613 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-05-24 13:58:42.810 [info] Extension signature verification result for ms-python.python: Success. Duration: 3793ms.
+2024-05-24 13:58:52.416 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/ms-python.python-2024.6.0: ms-python.python
+2024-05-24 13:58:52.525 [info] Renamed to /home/abraham/.vscode-server/extensions/ms-python.python-2024.6.0
+2024-05-24 13:58:52.549 [info] Extracting extension completed. ms-python.python
+2024-05-24 13:58:52.583 [info] Extension installed successfully: ms-python.python
+2024-05-24 13:58:52.589 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-05-24 13:58:52.607 [info] Marked extension as uninstalled ms-python.python-2024.4.1
+2024-05-24 13:59:12.403 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Duration: 3387ms.
+2024-05-24 13:59:40.686 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1: ms-python.vscode-pylance
+2024-05-24 13:59:40.777 [info] Renamed to /home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1
+2024-05-24 13:59:40.800 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-05-24 13:59:40.845 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-05-24 13:59:40.886 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.3.1
+2024-05-24 14:08:54.299 [info] [127.0.0.1][6af36a83][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-24 14:08:54.465 [info] [127.0.0.1][9d09fc5a][ExtensionHostConnection] <8439> Extension Host Process exited with code: 0, signal: null.

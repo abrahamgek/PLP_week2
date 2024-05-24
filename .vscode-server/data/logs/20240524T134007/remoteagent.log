@@ -1,0 +1,41 @@
+2024-05-24 13:40:07.269 [info] 
+
+
+
+
+2024-05-24 13:40:07.306 [info] Extension host agent started.
+2024-05-24 13:40:07.515 [info] [127.0.0.1][680ac278][ManagementConnection] New connection established.
+2024-05-24 13:40:09.050 [info] [127.0.0.1][c419d6c3][ExtensionHostConnection] New connection established.
+2024-05-24 13:40:09.069 [info] [127.0.0.1][c419d6c3][ExtensionHostConnection] <691> Launched Extension Host Process.
+2024-05-24 13:40:14.531 [info] Getting Manifest... formulahendry.code-runner
+2024-05-24 13:40:14.532 [info] Getting Manifest... ms-python.debugpy
+2024-05-24 13:40:14.532 [info] Getting Manifest... ms-python.python
+2024-05-24 13:40:14.532 [info] Getting Manifest... ms-python.vscode-pylance
+2024-05-24 13:40:15.447 [info] Installing extension: formulahendry.code-runner
+2024-05-24 13:40:15.563 [info] Installing extension: ms-python.python
+2024-05-24 13:40:15.768 [info] Installing extension: ms-python.vscode-pylance
+2024-05-24 13:40:16.091 [info] Installing extension: ms-python.debugpy
+2024-05-24 13:40:20.750 [info] Getting Manifest... ms-python.python
+2024-05-24 13:40:38.092 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-05-24 13:40:47.691 [info] Extension signature is verified: formulahendry.code-runner
+2024-05-24 13:40:48.357 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2024-05-24 13:40:48.443 [info] Renamed to /home/abraham/.vscode-server/extensions/formulahendry.code-runner-0.12.2
+2024-05-24 13:40:48.448 [info] Extracting extension completed. formulahendry.code-runner
+2024-05-24 13:40:48.464 [info] Extension installed successfully: formulahendry.code-runner
+2024-05-24 13:40:48.476 [info] Marked extension as uninstalled formulahendry.code-runner-0.12.1
+2024-05-24 13:40:57.768 [info] Getting Manifest... ms-python.python
+2024-05-24 13:41:03.036 [info] Extension signature is verified: ms-python.python
+2024-05-24 13:41:12.440 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/ms-python.python-2024.4.1: ms-python.python
+2024-05-24 13:41:12.485 [info] Renamed to /home/abraham/.vscode-server/extensions/ms-python.python-2024.4.1
+2024-05-24 13:41:12.498 [info] Extracting extension completed. ms-python.python
+2024-05-24 13:41:12.558 [info] Extension installed successfully: ms-python.python
+2024-05-24 13:41:12.564 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-05-24 13:41:12.580 [info] Marked extension as uninstalled ms-python.python-2024.2.1
+2024-05-24 13:43:54.155 [info] Extension signature is verified: ms-python.debugpy
+2024-05-24 13:43:55.965 [info] Extracted extension to file:///home/abraham/.vscode-server/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-05-24 13:43:55.986 [info] Renamed to /home/abraham/.vscode-server/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-05-24 13:43:55.993 [info] Extracting extension completed. ms-python.debugpy
+2024-05-24 13:43:56.010 [info] Extension installed successfully: ms-python.debugpy
+2024-05-24 13:43:56.026 [info] Marked extension as uninstalled ms-python.debugpy-2024.2.0-linux-x64
+2024-05-24 13:51:27.900 [info] [127.0.0.1][680ac278][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-24 13:51:28.468 [info] [127.0.0.1][c419d6c3][ExtensionHostConnection] <691> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,14 @@
+2024-03-25 16:07:38.563 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-25 16:07:39.817 [info] [Info  - 4:07:39 PM] (10802) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-25 16:07:39.818 [info] [Info  - 4:07:39 PM] (10802) Server root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 16:07:39.822 [info] [Info  - 4:07:39 PM] (10802) Starting service instance "portfolio_website"
+2024-03-25 16:07:39.928 [info] [Info  - 4:07:39 PM] (10802) Setting pythonPath for service "portfolio_website": "/bin/python3"
+2024-03-25 16:07:39.928 [info] [Info  - 4:07:39 PM] (10802) Setting environmentName for service "portfolio_website": "3.10.12 (global)"
+2024-03-25 16:07:39.981 [info] [Info  - 4:07:39 PM] (10802) Assuming Python version 3.10
+2024-03-25 16:07:40.118 [info] [Info  - 4:07:40 PM] (10802) No source files found.
+2024-03-25 16:07:41.122 [info] [Info  - 4:07:41 PM] (10802) Background analysis(1) root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-25 16:07:41.126 [info] [Info  - 4:07:41 PM] (10802) Background analysis(1) started
+2024-03-25 16:09:55.477 [info] [Info  - 4:09:55 PM] (10802) Setting pythonPath for service "portfolio_website": "/bin/python3"
+2024-03-25 16:09:55.480 [info] [Info  - 4:09:55 PM] (10802) Setting environmentName for service "portfolio_website": "3.10.12 (global)"
+2024-03-25 16:09:55.574 [info] [Info  - 4:09:55 PM] (10802) Assuming Python version 3.10
+2024-03-25 16:09:55.747 [info] [Info  - 4:09:55 PM] (10802) No source files found.

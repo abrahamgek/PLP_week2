@@ -1,0 +1,13 @@
+2024-05-24 13:57:37.730 [info] Experiment 'pythonCreateEnvOnPipInstallcf' is active
+2024-05-24 13:57:37.730 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-24 13:57:37.730 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-24 13:57:37.730 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-24 13:57:37.730 [info] Experiment 'pythonTestAdapter' is active
+2024-05-24 13:57:37.730 [info] Default formatter is set to null for workspace /home/abraham
+2024-05-24 13:57:37.730 [info] Test server listening.
+2024-05-24 13:57:37.730 [info] Python interpreter path: /bin/python3
+2024-05-24 13:57:37.802 [info] > pyenv which python
+2024-05-24 13:57:37.802 [info] cwd: .
+2024-05-24 13:57:41.856 [info] Starting Pylance language server.
+2024-05-24 13:58:45.162 [info] Discover tests for workspace name: abraham - uri: /home/abraham/.vscode-server/extensions/.4c2e9f1c-225f-4742-9068-9500a3e0b8fc/python_files/.vscode/settings.json
+2024-05-24 13:58:53.866 [info] Discover tests for workspace name: abraham - uri: /home/abraham/.vscode-server/extensions/.4c2e9f1c-225f-4742-9068-9500a3e0b8fc/python_files/pyproject.toml

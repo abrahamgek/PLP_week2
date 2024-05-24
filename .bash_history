@@ -488,3 +488,41 @@ git commit -m """
 clear
 
 
+git status
+sudo git add .
+git commit -m "update"
+sudo git commit -m "update"
+git status
+sudo git add .
+sudo git add 
+git status 
+git commit -m "update"
+clear
+git status
+git commit -m "update"
+clear
+cd landing_page
+code .
+cd
+mkdir portfolio_website
+cd portfolio_website
+code .
+cd
+exit
+clear
+code .
+git status
+clear
+exit
+chmod u+w .git/logs/HEAD
+ls -l .git/logs/HEAD
+chmod u+w .git/logs/HEAD
+sudo chown -R $(whoami) .git
+rm -f .git/index.lock
+sudo fsck /dev/sdX
+git fsck
+clear
+clear
+code .
+clear
+exit

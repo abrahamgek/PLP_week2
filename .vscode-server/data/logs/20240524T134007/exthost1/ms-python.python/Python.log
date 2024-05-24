@@ -1,0 +1,11 @@
+2024-05-24 13:40:13.470 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-24 13:40:13.471 [info] Experiment 'pythonREPLSmartSend' is active
+2024-05-24 13:40:13.471 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-24 13:40:13.471 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-24 13:40:13.471 [info] Experiment 'pythonTestAdapter' is active
+2024-05-24 13:40:13.471 [info] Default formatter is set to null for workspace /home/abraham
+2024-05-24 13:40:13.471 [info] Test server listening.
+2024-05-24 13:40:13.471 [info] Python interpreter path: /bin/python3
+2024-05-24 13:40:20.644 [info] Starting Pylance language server.
+2024-05-24 13:41:04.643 [info] Discover tests for workspace name: abraham - uri: /home/abraham/.vscode-server/extensions/.163694f7-e898-48f6-9c67-70bc9769d010/python_files/.vscode/settings.json
+2024-05-24 13:41:13.041 [info] Discover tests for workspace name: abraham - uri: /home/abraham/.vscode-server/extensions/.163694f7-e898-48f6-9c67-70bc9769d010/python_files/pyproject.toml
