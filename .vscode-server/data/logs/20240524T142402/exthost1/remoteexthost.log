@@ -29,3 +29,8 @@
 2024-05-24 14:25:57.252 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-05-24 14:25:57.253 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-05-24 14:28:25.430 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19992
+2024-05-24 14:29:18.835 [error] CodeExpectedError: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.
+    at m.y (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:15727)
+    at m.o (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:13088)
+    at m.n (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:12979)
+    at async Object.factory (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:12729)
