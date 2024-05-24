@@ -526,3 +526,10 @@ clear
 code .
 clear
 exit
+git status
+git commit
+git push
+git add *
+git push
+clear
+exit
