@@ -16,3 +16,10 @@
 2024-05-24 14:31:46.107 [info] ExtensionService#_doActivateExtension littlefoxteam.vscode-python-test-adapter, startup: false, activationEvent: 'onStartupFinished'
 2024-05-24 14:31:46.712 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
 2024-05-24 14:31:53.542 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-24 14:32:03.436 [error] CodeExpectedError: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.
+    at m.y (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:15727)
+    at m.o (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:13088)
+    at m.n (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:12979)
+    at async Object.factory (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:12729)
+2024-05-24 14:32:03.439 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-24 14:32:03.439 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

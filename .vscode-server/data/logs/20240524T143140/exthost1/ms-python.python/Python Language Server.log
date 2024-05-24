@@ -13,3 +13,15 @@
 2024-05-24 14:31:53.761 [info] [Info  - 2:31:53 PM] (5147) Setting environmentName for service "abraham": "3.10.12 (global)"
 2024-05-24 14:31:53.853 [info] [Info  - 2:31:53 PM] (5147) Assuming Python version 3.10.12.final.0
 2024-05-24 14:31:54.251 [info] [Info  - 2:31:54 PM] (5147) Found 2 source files
+2024-05-24 14:32:13.042 [info] [Info  - 2:32:13 PM] (5147) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-24 14:32:13.042 [info] [Info  - 2:32:13 PM] (5147) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-24 14:32:13.112 [info] [Info  - 2:32:13 PM] (5147) Assuming Python version 3.10.12.final.0
+2024-05-24 14:32:13.304 [info] [Info  - 2:32:13 PM] (5147) Found 2 source files
+2024-05-24 14:32:13.320 [info] [Info  - 2:32:13 PM] (5147) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-24 14:32:13.320 [info] [Info  - 2:32:13 PM] (5147) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-24 14:32:13.365 [info] [Info  - 2:32:13 PM] (5147) Assuming Python version 3.10.12.final.0
+2024-05-24 14:32:13.562 [info] [Info  - 2:32:13 PM] (5147) Found 2 source files
+2024-05-24 14:32:13.583 [info] [Info  - 2:32:13 PM] (5147) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-24 14:32:13.583 [info] [Info  - 2:32:13 PM] (5147) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-24 14:32:13.645 [info] [Info  - 2:32:13 PM] (5147) Assuming Python version 3.10.12.final.0
+2024-05-24 14:32:13.840 [info] [Info  - 2:32:13 PM] (5147) Found 2 source files

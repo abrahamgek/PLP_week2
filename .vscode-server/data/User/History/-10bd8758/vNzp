@@ -1,0 +1,61 @@
+updates
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 16 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .bash_history
+#	new file:   .vscode-server/data/User/History/-10bd8758/IMqo
+#	modified:   .vscode-server/data/User/History/-10bd8758/entries.json
+#	modified:   .vscode-server/data/User/workspaceStorage/faeb5d17a8df12c89dfdd06dfdbf8e9d/vscode.lock
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost1/ms-python.python/Python Language Server.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost1/ms-python.python/Python.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost1/output_logging_20240322T174539/4-Python Test Adapter Log.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost1/remoteexthost.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost1/vscode.git/Git.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost1/vscode.github/GitHub.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/ms-python.python/Python Language Server.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/ms-python.python/Python.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/output_logging_20240322T174653/1-Test Explorer.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/output_logging_20240322T174653/2-Code.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/output_logging_20240322T174653/3-Python Test Log.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/output_logging_20240322T174653/4-Python Test Adapter Log.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/remoteexthost.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/vscode.git/Git.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost2/vscode.github/GitHub.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/ms-python.python/Python Language Server.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/ms-python.python/Python.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/output_logging_20240322T175120/1-Test Explorer.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/output_logging_20240322T175120/2-Code.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/output_logging_20240322T175120/3-Python Test Log.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/output_logging_20240322T175120/4-Python Test Adapter Log.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/output_logging_20240322T175120/5-HTML Language Server.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/output_logging_20240322T175120/6-Embedded Live Preview Console.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/remoteexthost.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/vscode.git/Git.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/exthost3/vscode.github/GitHub.log
+#	deleted:    .vscode-server/data/logs/20240322T174537/remoteagent.log
+#	modified:   .vscode-server/data/logs/20240524T142402/exthost1/output_logging_20240524T142406/4-Python Test Adapter Log.log
+#	modified:   .vscode-server/data/logs/20240524T142402/exthost1/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20240524T142402/exthost1/vscode.git/Git.log
+#	modified:   .vscode-server/data/logs/20240524T142402/remoteagent.log
+#	new file:   .vscode-server/data/logs/20240524T143140/exthost1/ms-python.python/Python Language Server.log
+#	new file:   .vscode-server/data/logs/20240524T143140/exthost1/ms-python.python/Python.log
+#	renamed:    .vscode-server/data/logs/20240322T174537/exthost1/output_logging_20240322T174539/1-Test Explorer.log -> .vscode-server/data/logs/20240524T143140/exthost1/output_logging_20240524T143143/1-Test Explorer.log
+#	renamed:    .vscode-server/data/logs/20240322T174537/exthost1/output_logging_20240322T174539/2-Code.log -> .vscode-server/data/logs/20240524T143140/exthost1/output_logging_20240524T143143/2-Code.log
+#	renamed:    .vscode-server/data/logs/20240322T174537/exthost1/output_logging_20240322T174539/3-Python Test Log.log -> .vscode-server/data/logs/20240524T143140/exthost1/output_logging_20240524T143143/3-Python Test Log.log
+#	new file:   .vscode-server/data/logs/20240524T143140/exthost1/output_logging_20240524T143143/4-Python Test Adapter Log.log
+#	new file:   .vscode-server/data/logs/20240524T143140/exthost1/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20240524T143140/exthost1/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20240524T143140/exthost1/vscode.github/GitHub.log
+#	renamed:    .vscode-server/data/logs/20240322T174537/network.log -> .vscode-server/data/logs/20240524T143140/network.log
+#	renamed:    .vscode-server/data/logs/20240322T174537/ptyhost.log -> .vscode-server/data/logs/20240524T143140/ptyhost.log
+#	new file:   .vscode-server/data/logs/20240524T143140/remoteagent.log
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20240524T143140/exthost1/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20240524T143140/exthost1/vscode.git/Git.log
+#
