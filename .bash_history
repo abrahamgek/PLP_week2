@@ -533,3 +533,36 @@ git add *
 git push
 clear
 exit
+git status
+git add .vscode-server/data/logs/20240524T143140/exthost1/vscode.git/Git.log
+git commit -m "updates"
+git push
+git remote -v
+git remote set-url origin <git@github.com:abrahamgek>
+git status
+git add .
+git add .vscode-server/data/logs/20240524T143140/exthost1/vscode.git/Git.log
+git commit -m "Update Git log"
+git push origin main
+git remote -v
+clear
+ssh-add ~/.ssh/id_rsa
+git remote -v
+git remote set-url origin git@github.com:abrahamgek/reposityr.git
+ssh-add ~/.ssh/id_rsa
+git add .vscode-server/data/logs/20240524T143140/exthost1/vscode.git/Git.log
+git commit -m "Update VS Code configuration and logs"
+git push origin main
+git remote -v
+git remote set-url origin git@github.com:abrahamgek/plp_projects.git
+git add .
+git commit -m "Update VS Code configuration and logs"
+git push origin
+git pull
+git status
+git add 
+git add .
+git commit -m "updates"
+git push origin main
+clear
+exit

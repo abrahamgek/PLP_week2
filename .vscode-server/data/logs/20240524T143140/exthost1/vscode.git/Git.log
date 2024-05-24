@@ -1118,3 +1118,49 @@ warning: you may want to set your diff.renameLimit variable to at least 5669 and
 2024-05-24 14:52:38.338 [info] > git config --get commit.template [14ms]
 2024-05-24 14:52:38.341 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
 2024-05-24 14:52:38.518 [info] > git status -z -uall [166ms]
+2024-05-24 14:52:43.575 [info] > git config --get commit.template [28ms]
+2024-05-24 14:52:43.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-05-24 14:52:43.762 [info] > git status -z -uall [171ms]
+2024-05-24 14:52:43.811 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2024-05-24 14:52:43.813 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:52:43.908 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-05-24 14:52:43.911 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:52:43.941 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2024-05-24 14:52:43.941 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:52:48.815 [info] > git config --get commit.template [25ms]
+2024-05-24 14:52:48.820 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-05-24 14:52:48.987 [info] > git status -z -uall [154ms]
+2024-05-24 14:52:54.018 [info] > git config --get commit.template [14ms]
+2024-05-24 14:52:54.021 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-05-24 14:52:54.219 [info] > git status -z -uall [183ms]
+2024-05-24 14:52:59.257 [info] > git config --get commit.template [8ms]
+2024-05-24 14:52:59.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-05-24 14:52:59.583 [info] > git status -z -uall [281ms]
+2024-05-24 14:52:59.635 [info] > git merge-base refs/heads/main refs/remotes/origin/main [17ms]
+2024-05-24 14:52:59.636 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:52:59.723 [info] > git merge-base refs/heads/main refs/remotes/origin/main [10ms]
+2024-05-24 14:52:59.725 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:52:59.928 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-05-24 14:52:59.929 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:53:04.665 [info] > git config --get commit.template [19ms]
+2024-05-24 14:53:04.669 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-05-24 14:53:04.882 [info] > git status -z -uall [198ms]
+2024-05-24 14:53:09.911 [info] > git config --get commit.template [14ms]
+2024-05-24 14:53:09.912 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-05-24 14:53:10.211 [info] > git status -z -uall [286ms]
+2024-05-24 14:53:15.242 [info] > git config --get commit.template [13ms]
+2024-05-24 14:53:15.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-05-24 14:53:15.374 [info] > git merge-base refs/heads/main refs/remotes/origin/main [25ms]
+2024-05-24 14:53:15.375 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:53:15.495 [info] > git status -z -uall [237ms]
+2024-05-24 14:53:16.775 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2024-05-24 14:53:16.776 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:53:16.864 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2024-05-24 14:53:16.869 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
+2024-05-24 14:53:20.552 [info] > git config --get commit.template [26ms]
+2024-05-24 14:53:20.560 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-05-24 14:53:20.868 [info] > git status -z -uall [284ms]
+2024-05-24 14:53:26.292 [info] > git config --get commit.template [24ms]
+2024-05-24 14:53:26.335 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-05-24 14:53:26.405 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2024-05-24 14:53:26.406 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve common ancestor for 'refs/heads/main' and 'refs/remotes/origin/main'
