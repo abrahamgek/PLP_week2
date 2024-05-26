@@ -1,0 +1,18 @@
+2024-05-26 16:57:54.859 [info] Extension host with pid 3427 started
+2024-05-26 16:57:54.899 [info] Lock '/home/abraham/.vscode-server/data/User/workspaceStorage/faeb5d17a8df12c89dfdd06dfdbf8e9d/vscode.lock': Lock acquired.
+2024-05-26 16:57:55.015 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-26 16:57:55.017 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-05-26 16:57:55.173 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-26 16:57:55.174 [info] ExtensionService#_doActivateExtension ms-vscode.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2024-05-26 16:57:55.212 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-26 16:57:55.213 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-26 16:57:55.214 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2024-05-26 16:57:55.808 [info] Eager extensions activated
+2024-05-26 16:57:55.809 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:57:55.810 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:57:55.811 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:57:55.812 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:57:55.812 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onStartupFinished', root cause: littlefoxteam.vscode-python-test-adapter
+2024-05-26 16:57:55.813 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:57:57.293 [info] ExtensionService#_doActivateExtension littlefoxteam.vscode-python-test-adapter, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:57:57.761 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python

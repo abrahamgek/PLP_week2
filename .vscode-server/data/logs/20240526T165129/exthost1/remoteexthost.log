@@ -1,32 +1,24 @@
-2024-05-24 14:31:43.294 [info] Extension host with pid 4915 started
-2024-05-24 14:31:43.327 [info] Lock '/home/abraham/.vscode-server/data/User/workspaceStorage/faeb5d17a8df12c89dfdd06dfdbf8e9d/vscode.lock': Lock acquired.
-2024-05-24 14:31:43.459 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
-2024-05-24 14:31:43.552 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-05-24 14:31:43.553 [info] ExtensionService#_doActivateExtension ms-vscode.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
-2024-05-24 14:31:43.648 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2024-05-24 14:31:43.649 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-05-24 14:31:43.658 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
-2024-05-24 14:31:44.372 [info] Eager extensions activated
-2024-05-24 14:31:44.373 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2024-05-24 14:31:44.374 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2024-05-24 14:31:44.374 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
-2024-05-24 14:31:44.378 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
-2024-05-24 14:31:44.379 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onStartupFinished', root cause: littlefoxteam.vscode-python-test-adapter
-2024-05-24 14:31:44.381 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
-2024-05-24 14:31:46.107 [info] ExtensionService#_doActivateExtension littlefoxteam.vscode-python-test-adapter, startup: false, activationEvent: 'onStartupFinished'
-2024-05-24 14:31:46.712 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
-2024-05-24 14:31:53.542 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-05-24 14:32:03.436 [error] CodeExpectedError: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.
-    at m.y (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:15727)
-    at m.o (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:13088)
-    at m.n (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:12979)
-    at async Object.factory (vscode-file://vscode-app/c:/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2026:12729)
-2024-05-24 14:32:03.439 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-05-24 14:32:03.439 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-05-24 14:36:36.294 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
-2024-05-24 14:53:52.640 [info] Extension host terminating: received terminate message from renderer
-2024-05-24 14:53:52.643 [info] Lock '/home/abraham/.vscode-server/data/User/workspaceStorage/faeb5d17a8df12c89dfdd06dfdbf8e9d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
-2024-05-24 14:53:52.764 [error] Canceled: Canceled
+2024-05-26 16:51:34.146 [info] Extension host with pid 582 started
+2024-05-26 16:51:34.278 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-26 16:51:34.282 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-05-26 16:51:34.350 [info] Lock '/home/abraham/.vscode-server/data/User/workspaceStorage/faeb5d17a8df12c89dfdd06dfdbf8e9d/vscode.lock': Lock acquired.
+2024-05-26 16:51:34.502 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-26 16:51:34.502 [info] ExtensionService#_doActivateExtension ms-vscode.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2024-05-26 16:51:34.597 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-26 16:51:34.598 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-26 16:51:34.599 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2024-05-26 16:51:35.294 [info] Eager extensions activated
+2024-05-26 16:51:35.295 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:51:35.296 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:51:35.296 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:51:35.298 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:51:35.299 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onStartupFinished', root cause: littlefoxteam.vscode-python-test-adapter
+2024-05-26 16:51:35.299 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:51:37.154 [info] ExtensionService#_doActivateExtension littlefoxteam.vscode-python-test-adapter, startup: false, activationEvent: 'onStartupFinished'
+2024-05-26 16:51:37.851 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2024-05-26 16:57:37.927 [info] Extension host terminating: received terminate message from renderer
+2024-05-26 16:57:37.927 [info] Lock '/home/abraham/.vscode-server/data/User/workspaceStorage/faeb5d17a8df12c89dfdd06dfdbf8e9d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-26 16:57:38.010 [error] Canceled: Canceled
 	at new O (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -79,7 +71,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-24 14:53:52.764 [error] Canceled: Canceled
+2024-05-26 16:57:38.010 [error] Canceled: Canceled
 	at new O (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -132,7 +124,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-24 14:53:52.764 [error] Canceled: Canceled
+2024-05-26 16:57:38.011 [error] Canceled: Canceled
 	at new O (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -185,7 +177,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-24 14:53:52.765 [error] Canceled: Canceled
+2024-05-26 16:57:38.011 [error] Canceled: Canceled
 	at new O (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -238,7 +230,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-24 14:53:52.765 [error] Canceled: Canceled
+2024-05-26 16:57:38.012 [error] Canceled: Canceled
 	at new O (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -291,7 +283,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-24 14:53:52.765 [error] Canceled: Canceled
+2024-05-26 16:57:38.012 [error] Canceled: Canceled
 	at new O (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -344,7 +336,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-24 14:53:52.766 [error] Canceled: Canceled
+2024-05-26 16:57:38.013 [error] Canceled: Canceled
 	at new O (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/abraham/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -399,4 +391,4 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-24 14:53:52.773 [info] Extension host with pid 4915 exiting with code 0
+2024-05-26 16:57:38.018 [info] Extension host with pid 582 exiting with code 0
