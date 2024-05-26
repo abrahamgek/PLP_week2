@@ -10,3 +10,15 @@
 2024-05-26T17:03:48.576Z INFO unittest at 'abraham': Unittest test discovery is disabled
 2024-05-26T17:03:48.576Z INFO pytest at 'abraham': Pytest test discovery is disabled
 2024-05-26T17:03:48.577Z INFO testplan at 'abraham': TestPlan test discovery is disabled
+2024-05-26T17:04:51.053Z INFO unittest at 'abraham': Reading configuration for workspace abraham
+2024-05-26T17:04:51.059Z  DBG unittest at 'abraham': usingNewInterpreterStorage feature flag is 'true'
+2024-05-26T17:04:51.059Z INFO pytest at 'abraham': Reading configuration for workspace abraham
+2024-05-26T17:04:51.061Z  DBG pytest at 'abraham': usingNewInterpreterStorage feature flag is 'true'
+2024-05-26T17:04:51.064Z INFO testplan at 'abraham': Reading configuration for workspace abraham
+2024-05-26T17:04:51.069Z  DBG testplan at 'abraham': usingNewInterpreterStorage feature flag is 'true'
+2024-05-26T17:04:51.074Z INFO unittest at 'abraham': Using auto-detected pythonPath /bin/python3
+2024-05-26T17:04:51.075Z INFO pytest at 'abraham': Using auto-detected pythonPath /bin/python3
+2024-05-26T17:04:51.075Z INFO testplan at 'abraham': Using auto-detected pythonPath /bin/python3
+2024-05-26T17:04:51.077Z  DBG unittest at 'abraham': Sending autorun event
+2024-05-26T17:04:51.077Z  DBG pytest at 'abraham': Sending autorun event
+2024-05-26T17:04:51.077Z  DBG testplan at 'abraham': Sending autorun event
