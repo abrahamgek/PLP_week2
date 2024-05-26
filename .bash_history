@@ -566,3 +566,8 @@ git commit -m "updates"
 git push origin main
 clear
 exit
+git remote -v
+get remote set-url origin git@github.com:abrahamgek/PLP_week2.git
+git remote set-url origin git@github.com:abrahamgek/PLP_week2.git
+clear
+exit
