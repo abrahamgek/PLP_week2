@@ -571,3 +571,10 @@ get remote set-url origin git@github.com:abrahamgek/PLP_week2.git
 git remote set-url origin git@github.com:abrahamgek/PLP_week2.git
 clear
 exit
+git status
+git log HEAD..origin/main
+git pull origin main
+clear
+git status
+git remote -v
+git push

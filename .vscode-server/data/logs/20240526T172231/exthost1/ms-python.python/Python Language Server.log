@@ -1,0 +1,11 @@
+2024-05-26 17:22:41.291 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-26 17:22:42.231 [info] [Info  - 5:22:42 PM] (18320) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-26 17:22:42.232 [info] [Info  - 5:22:42 PM] (18320) Server root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 17:22:42.239 [info] [Info  - 5:22:42 PM] (18320) Starting service instance "abraham"
+2024-05-26 17:22:42.249 [info] [Info  - 5:22:42 PM] (18320) Auto-Indent enabled
+2024-05-26 17:22:42.344 [info] [Info  - 5:22:42 PM] (18320) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-26 17:22:42.344 [info] [Info  - 5:22:42 PM] (18320) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-26 17:22:42.399 [info] [Info  - 5:22:42 PM] (18320) Assuming Python version 3.10.12.final.0
+2024-05-26 17:22:42.607 [info] [Info  - 5:22:42 PM] (18320) Found 1 source file
+2024-05-26 17:22:42.980 [info] [Info  - 5:22:42 PM] (18320) Background analysis(1) root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 17:22:42.984 [info] [Info  - 5:22:42 PM] (18320) Background analysis(1) started

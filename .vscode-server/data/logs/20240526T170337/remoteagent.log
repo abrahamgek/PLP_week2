@@ -7,3 +7,5 @@
 2024-05-26 17:03:37.564 [info] [127.0.0.1][d3d98c21][ManagementConnection] New connection established.
 2024-05-26 17:03:39.270 [info] [127.0.0.1][ab3e7031][ExtensionHostConnection] New connection established.
 2024-05-26 17:03:39.298 [info] [127.0.0.1][ab3e7031][ExtensionHostConnection] <7681> Launched Extension Host Process.
+2024-05-26 17:22:21.611 [info] [127.0.0.1][d3d98c21][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-26 17:22:21.736 [info] [127.0.0.1][ab3e7031][ExtensionHostConnection] <7681> Extension Host Process exited with code: 0, signal: null.
