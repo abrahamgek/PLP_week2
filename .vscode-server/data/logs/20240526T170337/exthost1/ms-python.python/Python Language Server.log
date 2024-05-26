@@ -1,0 +1,23 @@
+2024-05-26 17:03:44.633 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-26 17:03:45.532 [info] [Info  - 5:03:45 PM] (7866) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-26 17:03:45.534 [info] [Info  - 5:03:45 PM] (7866) Server root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 17:03:45.535 [info] [Info  - 5:03:45 PM] (7866) Starting service instance "abraham"
+2024-05-26 17:03:45.545 [info] [Info  - 5:03:45 PM] (7866) Auto-Indent enabled
+2024-05-26 17:03:45.621 [info] [Info  - 5:03:45 PM] (7866) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-26 17:03:45.625 [info] [Info  - 5:03:45 PM] (7866) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-26 17:03:45.673 [info] [Info  - 5:03:45 PM] (7866) Assuming Python version 3.10.12.final.0
+2024-05-26 17:03:45.886 [info] [Info  - 5:03:45 PM] (7866) Found 1 source file
+2024-05-26 17:03:46.388 [info] [Info  - 5:03:46 PM] (7866) Background analysis(1) root directory: file:///home/abraham/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 17:03:46.392 [info] [Info  - 5:03:46 PM] (7866) Background analysis(1) started
+2024-05-26 17:03:49.779 [info] [Info  - 5:03:49 PM] (7866) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-26 17:03:49.780 [info] [Info  - 5:03:49 PM] (7866) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-26 17:03:49.827 [info] [Info  - 5:03:49 PM] (7866) Assuming Python version 3.10.12.final.0
+2024-05-26 17:03:50.090 [info] [Info  - 5:03:50 PM] (7866) Found 1 source file
+2024-05-26 17:03:50.137 [info] [Info  - 5:03:50 PM] (7866) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-26 17:03:50.137 [info] [Info  - 5:03:50 PM] (7866) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-26 17:03:50.208 [info] [Info  - 5:03:50 PM] (7866) Assuming Python version 3.10.12.final.0
+2024-05-26 17:03:50.623 [info] [Info  - 5:03:50 PM] (7866) Found 1 source file
+2024-05-26 17:03:50.862 [info] [Info  - 5:03:50 PM] (7866) Setting pythonPath for service "abraham": "/bin/python3"
+2024-05-26 17:03:50.866 [info] [Info  - 5:03:50 PM] (7866) Setting environmentName for service "abraham": "3.10.12 (global)"
+2024-05-26 17:03:50.866 [info] [Info  - 5:03:50 PM] (7866) Assuming Python version 3.10.12.final.0
+2024-05-26 17:03:51.084 [info] [Info  - 5:03:51 PM] (7866) Found 1 source file
